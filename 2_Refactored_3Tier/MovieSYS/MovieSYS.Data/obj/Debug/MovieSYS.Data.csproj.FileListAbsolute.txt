@@ -1,0 +1,17 @@
+C:\Users\neils\OneDrive - Institute of Technology Tralee\Year4\Sem1\Software Design Patterns\Assignment 1\RESUBMIT\DemoApp - 2_REFACTORED_3Tier - New\MovieSYS\MovieSYS.Data\obj\Debug\MovieSYS.Data.csproj.CoreCompileInputs.cache
+C:\Users\neils\OneDrive - Institute of Technology Tralee\Year4\Sem1\Software Design Patterns\Assignment 1\RESUBMIT\DemoApp - 2_REFACTORED_3Tier - New\MovieSYS\MovieSYS.Data\bin\Debug\MovieSYS.Data.dll.config
+C:\Users\neils\OneDrive - Institute of Technology Tralee\Year4\Sem1\Software Design Patterns\Assignment 1\RESUBMIT\DemoApp - 2_REFACTORED_3Tier - New\MovieSYS\MovieSYS.Data\bin\Debug\MovieSYS.Data.dll
+C:\Users\neils\OneDrive - Institute of Technology Tralee\Year4\Sem1\Software Design Patterns\Assignment 1\RESUBMIT\DemoApp - 2_REFACTORED_3Tier - New\MovieSYS\MovieSYS.Data\bin\Debug\MovieSYS.Data.pdb
+C:\Users\neils\OneDrive - Institute of Technology Tralee\Year4\Sem1\Software Design Patterns\Assignment 1\RESUBMIT\DemoApp - 2_REFACTORED_3Tier - New\MovieSYS\MovieSYS.Data\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\neils\OneDrive - Institute of Technology Tralee\Year4\Sem1\Software Design Patterns\Assignment 1\RESUBMIT\DemoApp - 2_REFACTORED_3Tier - New\MovieSYS\MovieSYS.Data\obj\Debug\MovieSYS.Data.csproj.CopyComplete
+C:\Users\neils\OneDrive - Institute of Technology Tralee\Year4\Sem1\Software Design Patterns\Assignment 1\RESUBMIT\DemoApp - 2_REFACTORED_3Tier - New\MovieSYS\MovieSYS.Data\obj\Debug\MovieSYS.Data.dll
+C:\Users\neils\OneDrive - Institute of Technology Tralee\Year4\Sem1\Software Design Patterns\Assignment 1\RESUBMIT\DemoApp - 2_REFACTORED_3Tier - New\MovieSYS\MovieSYS.Data\obj\Debug\MovieSYS.Data.pdb
+D:\Users\neils\OneDrive - Institute of Technology Tralee\Year4\Sem1\Software Design Patterns\Assignment 1\RESUBMIT\DemoApp - 2_REFACTORED_3Tier - New\MovieSYS\MovieSYS.Data\bin\Debug\MovieSYS.Data.dll.config
+D:\Users\neils\OneDrive - Institute of Technology Tralee\Year4\Sem1\Software Design Patterns\Assignment 1\RESUBMIT\DemoApp - 2_REFACTORED_3Tier - New\MovieSYS\MovieSYS.Data\bin\Debug\MovieSYS.Data.dll
+D:\Users\neils\OneDrive - Institute of Technology Tralee\Year4\Sem1\Software Design Patterns\Assignment 1\RESUBMIT\DemoApp - 2_REFACTORED_3Tier - New\MovieSYS\MovieSYS.Data\bin\Debug\MovieSYS.Data.pdb
+D:\Users\neils\OneDrive - Institute of Technology Tralee\Year4\Sem1\Software Design Patterns\Assignment 1\RESUBMIT\DemoApp - 2_REFACTORED_3Tier - New\MovieSYS\MovieSYS.Data\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Users\neils\OneDrive - Institute of Technology Tralee\Year4\Sem1\Software Design Patterns\Assignment 1\RESUBMIT\DemoApp - 2_REFACTORED_3Tier - New\MovieSYS\MovieSYS.Data\obj\Debug\MovieSYS.Data.csproj.AssemblyReference.cache
+D:\Users\neils\OneDrive - Institute of Technology Tralee\Year4\Sem1\Software Design Patterns\Assignment 1\RESUBMIT\DemoApp - 2_REFACTORED_3Tier - New\MovieSYS\MovieSYS.Data\obj\Debug\MovieSYS.Data.csproj.CoreCompileInputs.cache
+D:\Users\neils\OneDrive - Institute of Technology Tralee\Year4\Sem1\Software Design Patterns\Assignment 1\RESUBMIT\DemoApp - 2_REFACTORED_3Tier - New\MovieSYS\MovieSYS.Data\obj\Debug\MovieSYS.Data.csproj.CopyComplete
+D:\Users\neils\OneDrive - Institute of Technology Tralee\Year4\Sem1\Software Design Patterns\Assignment 1\RESUBMIT\DemoApp - 2_REFACTORED_3Tier - New\MovieSYS\MovieSYS.Data\obj\Debug\MovieSYS.Data.dll
+D:\Users\neils\OneDrive - Institute of Technology Tralee\Year4\Sem1\Software Design Patterns\Assignment 1\RESUBMIT\DemoApp - 2_REFACTORED_3Tier - New\MovieSYS\MovieSYS.Data\obj\Debug\MovieSYS.Data.pdb
